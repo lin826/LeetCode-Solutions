@@ -37,6 +37,7 @@ This Repo aims to have the solutions to all the problems on Leetcode and serve a
 - C++
 - Java
 - SQL
+- [C](https://github.com/begeekmyfriend/leetcode)
 
 ## Support
 
